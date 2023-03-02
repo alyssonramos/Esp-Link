@@ -1,3 +1,3 @@
 # EspLink - Aplicativo
 ##
- - Integração de Python com MySQL
+ - Integração de Python com MySQL.
