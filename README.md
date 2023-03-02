@@ -1,3 +1,3 @@
-# EspLink
+# EspLink - Aplicativo
 ##
- - Projeto da disciplina Bando de Dados
+ - Integração de Python com MySQL
